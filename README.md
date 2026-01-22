@@ -32,3 +32,6 @@ This is my implementation of `wc` using Ruby with some new features such as `Opt
 
     cat test.txt | ./wccc.rb -m
    ```
+## Note
+
+Solution to the First Coding Challege in [John Crickett's Coding Challenges](https://codingchallenges.fyi/challenges/challenge-wc/).
